@@ -1,0 +1,25 @@
+#breakfast{
+    background-color: aqua;
+}
+#breakfast h1{
+    color: chocolate;
+}
+
+#lunch{
+    background-color: black;
+    color: white;
+}
+#lunch span{
+    /* color: white; */
+    background-color: black;
+    font-size: xx-large;
+    color: wheat;
+    /* background-size: contain; */
+}
+
+#dinner{
+    background-color: green;
+}
+#dinner h1{
+    color: orange;
+}
